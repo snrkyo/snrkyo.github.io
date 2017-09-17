@@ -38,6 +38,78 @@
   </entry>
   
   <entry>
+    <title>毕业感言</title>
+    <link href="shijie-xu.github.io/2017/06/25/%E6%AF%95%E4%B8%9A%E6%84%9F%E8%A8%80/"/>
+    <id>shijie-xu.github.io/2017/06/25/毕业感言/</id>
+    <published>2017-06-25T04:49:57.000Z</published>
+    <updated>2017-09-17T04:50:28.128Z</updated>
+    
+    <content type="html"><![CDATA[<p>毕业感言</p><p>黯然销魂者，唯別而已矣。</p><p>当年我年少自负，为赋新词强说愁，最喜江郎此句，每每挂在心头。却不知别之一字，究竟饱含了怎样的情感。如今正真到了离别的时刻，也真正体会到了离别的痛苦，心中郁结万分，宁可忘记这件事情。</p><p>那些往昔的同学，在四年漫长而又短暂的时光里，我们有了深深的羁绊。我们一起学习生活的日子里，不曾有什么感动的地方，但是分别片刻之后，看着人去楼空的宿舍，我不禁回忆起你们的音容笑貌来。</p><p>五楼的洗漱池，多少次熬夜到凌晨，看见同样熬夜的小伙伴，彼此相视一笑；三教的自习室，到了晚上12点，也有小伙伴一同从自习室归来；西区图书馆，到了考试周，图书馆便挤满了复习的同学；西区的操场上，夜晚总是有很多人在跑步，有老人也有年轻人。</p><p>想起多少次，我们一起去看电影，吃饭，一起打《帝国》。</p><p>这些回忆，可能永远只是回忆，再也不会在未来变成事实了。就算看到了同样的风景，却不是同样的人了。</p><p>同学通讯录是在匆忙之中找人写的，看着那一条条“去向”，实在是感慨万千。如今国内四通八达的高铁连接起了各大城市的交通，科大同学又大多集中在那几个城市，然而物是人非，到了一个新的地方，大家都有了自己新的圈子，在也回不到过去了。更何况，那些远在海外求学的同学，分散在了世界各地，见一次面更不容易，正如江郎所言“一赴绝国，讵相见期！”</p><p>我们怀念的不是人，也不是时间，而是恰好的青春和恰好的人。致那些我们一起浪过的岁月，和你们。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;毕业感言&lt;/p&gt;
+&lt;p&gt;黯然销魂者，唯別而已矣。&lt;/p&gt;
+&lt;p&gt;当年我年少自负，为赋新词强说愁，最喜江郎此句，每每挂在心头。却不知别之一字，究竟饱含了怎样的情感。如今正真到了离别的时刻，也真正体会到了离别的痛苦，心中郁结万分，宁可忘记这件事情。&lt;/p&gt;
+&lt;p&gt;那些往昔的同学
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>分音列与等比数列</title>
+    <link href="shijie-xu.github.io/2017/06/12/%E5%88%86%E9%9F%B3%E5%88%97%E4%B8%8E%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97/"/>
+    <id>shijie-xu.github.io/2017/06/12/分音列与等比数列/</id>
+    <published>2017-06-12T04:49:00.000Z</published>
+    <updated>2017-09-17T04:49:43.972Z</updated>
+    
+    <content type="html"><![CDATA[<p>以C为基音（包括十五个泛音）的分音列：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">C c g c1 e1 g1 降b1 c2 d2 e2 升f2 g2 a2 降b2 b2 c3</div></pre></td></tr></table></figure><p>为什么会是这样的结果呢？</p><p>其实可以做一个数学计算，就可以看出原因了。</p><p>我们知道，每升高一个八度，频率增加一倍，十二平均律将一个八度按几何级数分为了十二份。即每个相邻的半音有2^\frac{1}{12} 的倍数关系，记p=2^\frac{1}{12}。</p><p>所以我们计算出以上分音列对C的倍数：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">1 p^12 p^19 p^24 p^28 p^31 p^34 p^36 p^38 p^40 p^42 p^43 p^45 p^46 p^47 p^48</div></pre></td></tr></table></figure><p>那么我们计算一下这串数字究竟是多少？</p><p><a href="https://shijie-xu.github.io/2017/06/12/%E5%88%86%E9%9F%B3%E5%88%97%E4%B8%8E%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97/%E5%88%86%E9%9F%B3%E5%88%97.jpg"><img src="https://shijie-xu.github.io/2017/06/12/%E5%88%86%E9%9F%B3%E5%88%97%E4%B8%8E%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97/%E5%88%86%E9%9F%B3%E5%88%97.jpg" alt="分音列"></a>分音列</p><p>第三行的运算结果非常接近等差数列1,2,3,…,16。</p><p>通过精确的计算，结合分音列的定义，我们发现，这些数字恰好从物理上解释了为什么分音列就是这些音高。在十二平均律的指定的音高中，即以中央C为基准，所有的音高都是在已得到的音高的基础上升高或降低半音，从而上面的分音列是最接近实际音高的。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;以C为基音（包括十五个泛音）的分音列：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Bash on Ubuntu on Windows</title>
+    <link href="shijie-xu.github.io/2017/04/30/Bash-on-Ubuntu-on-Windows/"/>
+    <id>shijie-xu.github.io/2017/04/30/Bash-on-Ubuntu-on-Windows/</id>
+    <published>2017-04-30T04:46:03.000Z</published>
+    <updated>2017-09-17T04:48:02.134Z</updated>
+    
+    <content type="html"><![CDATA[<p>Bash on Ubuntu on Windows</p><p>这是一个十分有用的工具，（我认为的）,是windows下的linux子系统，打算用这个替代双系统。</p><p>放狗一搜，很容易就可以安装好了。相关链接</p><p>不过对于图形界面的支持还有一点缺陷，需要使用xming这个工具，不过弄好了的感觉就是酷啊！</p><p><img src="/img/display.png" alt="示例"></p><p><a href="/img/">xming下载链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Bash on Ubuntu on Windows&lt;/p&gt;
+&lt;p&gt;这是一个十分有用的工具，（我认为的）,是windows下的linux子系统，打算用这个替代双系统。&lt;/p&gt;
+&lt;p&gt;放狗一搜，很容易就可以安装好了。相关链接&lt;/p&gt;
+&lt;p&gt;不过对于图形界面的支持还有一点缺陷，需
+      
+    
+    </summary>
+    
+    
+      <category term="工具" scheme="shijie-xu.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Jupiter</title>
     <link href="shijie-xu.github.io/2017/04/23/Jupiter/"/>
     <id>shijie-xu.github.io/2017/04/23/Jupiter/</id>
