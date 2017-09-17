@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Shijie Xu&#39;s Blog</title>
   
-  
+  <subtitle>We&#39;re all in the gutter, but some of us are looking at the stars.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="shijie-xu.github.io/"/>
@@ -302,9 +302,9 @@
     <link href="shijie-xu.github.io/2017/03/24/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/"/>
     <id>shijie-xu.github.io/2017/03/24/常用工具合集/</id>
     <published>2017-03-24T07:48:26.000Z</published>
-    <updated>2017-09-16T14:53:04.390Z</updated>
+    <updated>2017-09-17T05:04:14.528Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="FSCapture"><a href="#FSCapture" class="headerlink" title="FSCapture"></a>FSCapture</h4><p>一个绿色软件，主要用于微信公众稿的长截图，其它功能尚待发现。</p><p><img src="/img/fsc.png" alt="FSCapture"></p><p><a href="/img/FSCapture.zip">下载地址</a></p><h4 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h4><p>一个轻量级文本编辑器，支持 Markdown 语言，实时渲染。</p><p><a href="https://typora.io/" target="_blank" rel="external">官方网址</a></p><h4 id="Guetzli"><a href="#Guetzli" class="headerlink" title="Guetzli"></a>Guetzli</h4><p>Google 最新开源的一个图片压缩算法，具有 30% 左右的压缩率。对某些图片具有较好的压缩率。运行会消耗大量内存和时间。</p><p><a href="https://github.com/google/guetzli/" target="_blank" rel="external">Github</a></p><h4 id="KillMir-1-0"><a href="#KillMir-1-0" class="headerlink" title="KillMir 1.0"></a>KillMir 1.0</h4><p>一个病毒专杀程序，西活楼下打印店病毒。该病毒会在 U盘里写入与文件夹同名的副本，并修改图标为Win7系统的文件夹图标，具有一定的隐藏性，危害性暂时不明，只知道可以自我复制并驻留内存。</p><h4 id="Basic"><a href="#Basic" class="headerlink" title="Basic"></a>Basic</h4><p>An interpreter for untyped lambda calculus, beta-reduction.</p>]]></content>
+    <content type="html"><![CDATA[<h4 id="FSCapture"><a href="#FSCapture" class="headerlink" title="FSCapture"></a>FSCapture</h4><p>一个绿色软件，主要用于微信公众稿的长截图，其它功能尚待发现。</p><p><img src="/img/fsc.png" alt="FSCapture"></p><p><a href="/img/FSCaptureHelp.zip">下载地址</a></p><h4 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h4><p>一个轻量级文本编辑器，支持 Markdown 语言，实时渲染。</p><p><a href="https://typora.io/" target="_blank" rel="external">官方网址</a></p><h4 id="Guetzli"><a href="#Guetzli" class="headerlink" title="Guetzli"></a>Guetzli</h4><p>Google 最新开源的一个图片压缩算法，具有 30% 左右的压缩率。对某些图片具有较好的压缩率。运行会消耗大量内存和时间。</p><p><a href="https://github.com/google/guetzli/" target="_blank" rel="external">Github</a></p><h4 id="KillMir-1-0"><a href="#KillMir-1-0" class="headerlink" title="KillMir 1.0"></a>KillMir 1.0</h4><p>一个病毒专杀程序，西活楼下打印店病毒。该病毒会在 U盘里写入与文件夹同名的副本，并修改图标为Win7系统的文件夹图标，具有一定的隐藏性，危害性暂时不明，只知道可以自我复制并驻留内存。</p><p><a href="/img/killmir.exe">Download</a></p><h4 id="Basic"><a href="#Basic" class="headerlink" title="Basic"></a>Basic</h4><p>An interpreter for untyped lambda calculus, beta-reduction.</p><p><a href="/img/basic.tar.gz">Download</a></p>]]></content>
     
     <summary type="html">
     
