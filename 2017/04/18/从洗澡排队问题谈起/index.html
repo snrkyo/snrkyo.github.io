@@ -1,0 +1,326 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>从洗澡排队问题谈起 | Shijie Xu&#39;s Blog</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="问题从某次部长在群里转发一条公众号文章谈起，东南大学研究生会 把问题归纳如下：  假设洗澡等待时间是一个均匀分布，即 $X \sim U[20],0\le X\le 20$，那么同时等待 $n$ 个人的时间是期望是多少？即假设 $$X_i\sim U[20],1\le i\le n$$, 求 $E[\min{X_i}]$.  这个问题涉及顺序统计量的概念。对于更为一般的 $n$ 个同分布 $F(x">
+<meta name="keywords" content="数学">
+<meta property="og:type" content="article">
+<meta property="og:title" content="从洗澡排队问题谈起">
+<meta property="og:url" content="shijie-xu.github.io/2017/04/18/从洗澡排队问题谈起/index.html">
+<meta property="og:site_name" content="Shijie Xu&#39;s Blog">
+<meta property="og:description" content="问题从某次部长在群里转发一条公众号文章谈起，东南大学研究生会 把问题归纳如下：  假设洗澡等待时间是一个均匀分布，即 $X \sim U[20],0\le X\le 20$，那么同时等待 $n$ 个人的时间是期望是多少？即假设 $$X_i\sim U[20],1\le i\le n$$, 求 $E[\min{X_i}]$.  这个问题涉及顺序统计量的概念。对于更为一般的 $n$ 个同分布 $F(x">
+<meta property="og:locale" content="zh-CN">
+<meta property="og:updated_time" content="2017-09-16T15:02:47.329Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="从洗澡排队问题谈起">
+<meta name="twitter:description" content="问题从某次部长在群里转发一条公众号文章谈起，东南大学研究生会 把问题归纳如下：  假设洗澡等待时间是一个均匀分布，即 $X \sim U[20],0\le X\le 20$，那么同时等待 $n$ 个人的时间是期望是多少？即假设 $$X_i\sim U[20],1\le i\le n$$, 求 $E[\min{X_i}]$.  这个问题涉及顺序统计量的概念。对于更为一般的 $n$ 个同分布 $F(x">
+  
+    <link rel="alternative" href="/atom.xml" title="Shijie Xu&#39;s Blog" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="/css/style.css">
+  <!--[if lt IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script><![endif]-->
+  
+</head>
+<body>
+<div id="container">
+  <div id="wrap">
+    <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">Shijie Xu&#39;s Blog</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+          <a class="main-nav-link" href="/about">About</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//www.baidu.com/baidu" method="get" accept-charset="utf-8" class="search-form">
+          <input type="search" name="word" maxlength="20" class="search-form-input" placeholder="Search">
+          <input type="submit" value="" class="search-form-submit">
+          <input name=tn type=hidden value="bds">
+          <input name=cl type=hidden value="3">
+          <input name=ct type=hidden value="2097152">
+          <input type="hidden" name="si" value="shijie-xu.github.io">
+        </form>
+      </div>
+    </div>
+  </div>
+</header>
+    <div class="outer">
+      <section id="main"><article id="post-从洗澡排队问题谈起" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2017/04/18/从洗澡排队问题谈起/" class="article-date">
+  <time datetime="2017-04-18T14:59:39.000Z" itemprop="datePublished">2017-04-18</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      从洗澡排队问题谈起
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>问题从某次部长在群里转发一条公众号文章谈起，<a href="http://mp.weixin.qq.com/s/KMTNFpr_WtFiNZOpmAX3Tw" target="_blank" rel="external">东南大学研究生会</a></p>
+<p>把问题归纳如下：</p>
+<blockquote>
+<p>假设洗澡等待时间是一个均匀分布，即 $X \sim U[20],0\le X\le 20$，那么同时等待 $n$ 个人的时间是期望是多少？即假设 $$X_i\sim U[20],1\le i\le n$$, 求 $E[\min{X_i}]$.</p>
+</blockquote>
+<p>这个问题涉及顺序统计量的概念。对于更为一般的 $n$ 个同分布 $F(x)$ 的随机变量，它们的顺序统计量也是一列随机变量，即 $X{(1)},\ldots,X{(n)}$ 也是随机变量，那么它们的联合密度和随机变量 $X_1,\ldots,X_n$ 的联合密度有如下关系：，这个公式可以这么理解：</p>
+<p>考虑 $n$ 维空间中位于点 $(x_1,\ldots,x_n)$ 处的概率密度。 $x<em>1,\ldots,xn$ 有 $n!$ 种可能的排序，注意到 $X{(1)}\,\ldots,X</em>{(n)}$ 仅在 $x_1\le\ldots\le xn$ 这一种情况下为 $ f{X{(1)},\ldots,X{(n)}(x_1,\ldots,x_n)$，而其余情形为 $0$，由于 $Xi$ 是同分布的，有相同的密度函数，故顺序统计量的联合密度应当是无序时联合密度之和，即 $f{X{(1)},\ldots,X{(n)}}(x_1,\ldots,xn)=n!f{X_1,\ldots,X_n}(x_1,\ldots,x_n)$。</p>
+<p>从而有积分$$ f{X{(k)}}(xk)=\int{-\infty}^{x2}\int{-\infty}^{x3}\ldots\int{-\infty}^{xk}\int{xk}^{\infty}\ldots\int{x{n-1}}^{\infty}~f{X{(1)},\ldots,X{(n)}}(x<em>1,\ldots,xn)$$，代入前面的公式，得 $f{X</em>{(k)}}(x_k)=P\cdot Q\cdot f_X(xk)$，其中 $P=\int{-\infty}^{x2}\int{-\infty}^{x3}\ldots\int{-\infty}^{x_k} f_X(x_1)f_X(x<em>2)\ldots fX(x{k-1})=\frac{F^{(k-1)}(x)}{(k-1)!}$，$\int</em>{xk}^{\infty}\ldots\int{x_{n-1}}^{\infty}~fX(x{k+1})fX(x{k+2})\ldots f<em>X(xn)=\frac{(1-F(x))^{(n-k)}(x)}{(n-k)!}$， 从而得到 $f{X</em>{(k)}}(x_k)=\frac{n!}{(k-1)!(n-k)!}F^{(k-1)}(x_k)(1-F(x_k))^{n-k}f_X(x_k)$。</p>
+<p>回到原题，代入条件 $k=1, fX(x)=1/20,0\le x\le 20$，有 $E[X{(k)}]=\frac{20}{n+1}=\frac{10}{3}$。</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      
+        <a data-url="shijie-xu.github.io/2017/04/18/从洗澡排队问题谈起/" data-id="cj7o8uevo0007ecuiu0jbbqen" class="article-share-link" data-share="baidu" data-title="从洗澡排队问题谈起">分享到</a>
+      
+
+      
+
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/数学/">数学</a></li></ul>
+
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2017/04/20/SETSS17/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">下一篇</strong>
+      <div class="article-nav-title">
+        
+          SETSS17
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2017/04/03/随手拍-苏州/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">上一篇</strong>
+      <div class="article-nav-title">随手拍 - 苏州</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+</section>
+      
+      <aside id="sidebar">
+  
+    
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">标签</h3>
+    <div class="widget">
+      <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/coq/">coq</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/emacs/">emacs</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/数学/">数学</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/苏州/">苏州</a><span class="tag-list-count">3</span></li></ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">标签云</h3>
+    <div class="widget tagcloud">
+      <a href="/tags/coq/" style="font-size: 15px;">coq</a> <a href="/tags/emacs/" style="font-size: 15px;">emacs</a> <a href="/tags/数学/" style="font-size: 10px;">数学</a> <a href="/tags/苏州/" style="font-size: 20px;">苏州</a>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">归档</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/09/">九月 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/04/">四月 2017</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/03/">三月 2017</a><span class="archive-list-count">8</span></li></ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">近期文章</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2017/09/14/第一步：如何建立hexo博客/">第一步：如何建立hexo博客</a>
+          </li>
+        
+          <li>
+            <a href="/2017/04/23/Jupiter/">Jupiter</a>
+          </li>
+        
+          <li>
+            <a href="/2017/04/20/SETSS17/">SETSS17</a>
+          </li>
+        
+          <li>
+            <a href="/2017/04/18/从洗澡排队问题谈起/">从洗澡排队问题谈起</a>
+          </li>
+        
+          <li>
+            <a href="/2017/04/03/随手拍-苏州/">随手拍 - 苏州</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">友情链接</h3>
+    <div class="widget">
+      <ul>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+      
+    </div>
+    <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2017 Shijie Xu<br>
+      Powered by <a href="//hexo.io/" target="_blank">Hexo</a>
+      .
+      Theme by <a href="https://github.com/xiangming/landscape-plus" target="_blank">Landscape-plus</a>
+    </div>
+  </div>
+</footer>
+  </div>
+  <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+    <a href="/about" class="mobile-nav-link">About</a>
+  
+</nav>
+  <!-- totop start -->
+<div id="totop">
+<a title="返回顶部"><img src="/img/scrollup.png"/></a>
+</div>
+
+<!-- totop end -->
+
+
+<!-- 百度分享 start -->
+
+<div id="article-share-box" class="article-share-box">
+  <div id="bdshare" class="bdsharebuttonbox article-share-links">
+    <a class="article-share-weibo" data-cmd="tsina" title="分享到新浪微博"></a>
+    <a class="article-share-weixin" data-cmd="weixin" title="分享到微信"></a>
+    <a class="article-share-qq" data-cmd="sqq" title="分享到QQ"></a>
+    <a class="article-share-renren" data-cmd="renren" title="分享到人人网"></a>
+    <a class="article-share-more" data-cmd="more" title="更多"></a>
+  </div>
+</div>
+<script>
+  function SetShareData(cmd, config) {
+    if (shareDataTitle && shareDataUrl) {
+      config.bdText = shareDataTitle;
+      config.bdUrl = shareDataUrl;
+    }
+    return config;
+  }
+  window._bd_share_config={
+    "common":{onBeforeClick: SetShareData},
+    "share":{"bdCustomStyle":"/css/bdshare.css"}
+  };
+  with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='//bdimg.share.baidu.com/static/api/js/share.js?cdnversion='+~(-new Date()/36e5)];
+</script>
+
+<!-- 百度分享 end -->
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+
+
+
+<! -- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
+                processEscapes: true
+                    
+}
+  
+        });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+                  
+}
+    
+        });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Queue(function() {
+            var all = MathJax.Hub.getAllJax(), i;
+            for(i=0; i < all.length; i += 1) {
+                            all[i].SourceElement().parentNode.className += ' has-jax';
+                                    
+            }
+                
+        });
+</script>
+
+<script type="text/javascript" src="//cdn.bootcss.com/mathjax/2.5.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+<script src="/js/script.js"></script>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shijie Xu&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="shijie-xu.github.io/"/>
+  <updated>2017-09-14T02:07:25.280Z</updated>
+  <id>shijie-xu.github.io/</id>
+  
+  <author>
+    <name>Shijie Xu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一步：如何建立hexo博客</title>
+    <link href="shijie-xu.github.io/2017/09/14/%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8Bhexo%E5%8D%9A%E5%AE%A2/"/>
+    <id>shijie-xu.github.io/2017/09/14/第一步：如何建立hexo博客/</id>
+    <published>2017-09-14T01:58:01.000Z</published>
+    <updated>2017-09-14T02:07:25.280Z</updated>
+    
+    <content type="html"><![CDATA[<p>上半年在苏州时做毕设，闲暇之时曾经在 github.com 上部署过一个博客，并尝试了多种主题。后来回到合肥，沉溺游戏和各种交际，以至于荒废了这个博客。最近由于新学期开启，我决定要重启这个博客。由于时间久远，原来的资料丢失，我只好重头再来。这篇文章就是为了记录这么一个过程。</p><ol><li>安装 node.js 和 hexo，这个网上有很多教程，不再赘述。</li><li>安装 landscape-plus 主题。这个在他的官网上也有指南，我只提一个细节，安装完成后，标题处会有一个大红色的框，我很不喜欢这个框，就用了 landscape 主题中的文件替换，将这个框去掉了。具体是 <code>themes/landscape/source/css/_partial/header.styl</code> 替换掉 <code>themes/landscape-plus/source/css/_partial/header.styl</code>。</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;上半年在苏州时做毕设，闲暇之时曾经在 github.com 上部署过一个博客，并尝试了多种主题。后来回到合肥，沉溺游戏和各种交际，以至于荒废了这个博客。最近由于新学期开启，我决定要重启这个博客。由于时间久远，原来的资料丢失，我只好重头再来。这篇文章就是为了记录这么一个过程。
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Jupiter</title>
+    <link href="shijie-xu.github.io/2017/04/23/Jupiter/"/>
+    <id>shijie-xu.github.io/2017/04/23/Jupiter/</id>
+    <published>2017-04-23T04:27:49.000Z</published>
+    <updated>2017-09-17T04:30:25.017Z</updated>
+    
+    <content type="html"><![CDATA[<p>从重庆回来，晚上去必红宿舍看他的宝贝。</p><p><img src="/img/jupiter-1.jpg" alt="必红拍的照片"></p><p><img src="/img/jupiter-2.jpg" alt="以下三张是我自己拍的"></p><p><img src="/img/jupiter-3.jpg" alt=""></p><p><img src="/img/jupiter-4.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;从重庆回来，晚上去必红宿舍看他的宝贝。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/jupiter-1.jpg&quot; alt=&quot;必红拍的照片&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/jupiter-2.jpg&quot; alt=&quot;以下三张是我自己拍的&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>SETSS17</title>
+    <link href="shijie-xu.github.io/2017/04/20/SETSS17/"/>
+    <id>shijie-xu.github.io/2017/04/20/SETSS17/</id>
+    <published>2017-04-20T04:26:37.000Z</published>
+    <updated>2017-09-17T04:27:21.666Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>一入山城故乡遥，生年未半心先老。<br>廪君何故射盐女，高唐遗恨应已销。</p></blockquote><p>ps: 图片数量巨大，手机党慎点</p><p>因为版权问题，删除了图片。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;一入山城故乡遥，生年未半心先老。&lt;br&gt;廪君何故射盐女，高唐遗恨应已销。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ps: 图片数量巨大，手机党慎点&lt;/p&gt;
+&lt;p&gt;因为版权问题，删除了图片。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>从洗澡排队问题谈起</title>
+    <link href="shijie-xu.github.io/2017/04/18/%E4%BB%8E%E6%B4%97%E6%BE%A1%E6%8E%92%E9%98%9F%E9%97%AE%E9%A2%98%E8%B0%88%E8%B5%B7/"/>
+    <id>shijie-xu.github.io/2017/04/18/从洗澡排队问题谈起/</id>
+    <published>2017-04-18T14:59:39.000Z</published>
+    <updated>2017-09-16T15:02:47.329Z</updated>
+    
+    <content type="html"><![CDATA[<p>问题从某次部长在群里转发一条公众号文章谈起，<a href="http://mp.weixin.qq.com/s/KMTNFpr_WtFiNZOpmAX3Tw" target="_blank" rel="external">东南大学研究生会</a></p><p>把问题归纳如下：</p><blockquote><p>假设洗澡等待时间是一个均匀分布，即 $X \sim U[20],0\le X\le 20$，那么同时等待 $n$ 个人的时间是期望是多少？即假设 $$X_i\sim U[20],1\le i\le n$$, 求 $E[\min{X_i}]$.</p></blockquote><p>这个问题涉及顺序统计量的概念。对于更为一般的 $n$ 个同分布 $F(x)$ 的随机变量，它们的顺序统计量也是一列随机变量，即 $X{(1)},\ldots,X{(n)}$ 也是随机变量，那么它们的联合密度和随机变量 $X_1,\ldots,X_n$ 的联合密度有如下关系：，这个公式可以这么理解：</p><p>考虑 $n$ 维空间中位于点 $(x_1,\ldots,x_n)$ 处的概率密度。 $x<em>1,\ldots,xn$ 有 $n!$ 种可能的排序，注意到 $X{(1)}\,\ldots,X</em>{(n)}$ 仅在 $x_1\le\ldots\le xn$ 这一种情况下为 $ f{X{(1)},\ldots,X{(n)}(x_1,\ldots,x_n)$，而其余情形为 $0$，由于 $Xi$ 是同分布的，有相同的密度函数，故顺序统计量的联合密度应当是无序时联合密度之和，即 $f{X{(1)},\ldots,X{(n)}}(x_1,\ldots,xn)=n!f{X_1,\ldots,X_n}(x_1,\ldots,x_n)$。</p><p>从而有积分$$ f{X{(k)}}(xk)=\int{-\infty}^{x2}\int{-\infty}^{x3}\ldots\int{-\infty}^{xk}\int{xk}^{\infty}\ldots\int{x{n-1}}^{\infty}~f{X{(1)},\ldots,X{(n)}}(x<em>1,\ldots,xn)$$，代入前面的公式，得 $f{X</em>{(k)}}(x_k)=P\cdot Q\cdot f_X(xk)$，其中 $P=\int{-\infty}^{x2}\int{-\infty}^{x3}\ldots\int{-\infty}^{x_k} f_X(x_1)f_X(x<em>2)\ldots fX(x{k-1})=\frac{F^{(k-1)}(x)}{(k-1)!}$，$\int</em>{xk}^{\infty}\ldots\int{x_{n-1}}^{\infty}~fX(x{k+1})fX(x{k+2})\ldots f<em>X(xn)=\frac{(1-F(x))^{(n-k)}(x)}{(n-k)!}$， 从而得到 $f{X</em>{(k)}}(x_k)=\frac{n!}{(k-1)!(n-k)!}F^{(k-1)}(x_k)(1-F(x_k))^{n-k}f_X(x_k)$。</p><p>回到原题，代入条件 $k=1, fX(x)=1/20,0\le x\le 20$，有 $E[X{(k)}]=\frac{20}{n+1}=\frac{10}{3}$。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;问题从某次部长在群里转发一条公众号文章谈起，&lt;a href=&quot;http://mp.weixin.qq.com/s/KMTNFpr_WtFiNZOpmAX3Tw&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;东南大学研究生会&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;把问题归纳
+      
+    
+    </summary>
+    
+    
+      <category term="数学" scheme="shijie-xu.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随手拍 - 苏州</title>
+    <link href="shijie-xu.github.io/2017/04/03/%E9%9A%8F%E6%89%8B%E6%8B%8D-%E8%8B%8F%E5%B7%9E/"/>
+    <id>shijie-xu.github.io/2017/04/03/随手拍-苏州/</id>
+    <published>2017-04-03T14:55:37.000Z</published>
+    <updated>2017-09-16T14:58:55.766Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/微信图片_20170418130641.jpg" alt=""></p><p><img src="/img/微信图片_20170418130710.jpg" alt=""></p><p><img src="/img/微信图片_20170418130713.jpg" alt=""></p><p><img src="/img/微信图片_20170418130717.jpg" alt=""></p><p><img src="/img/微信图片_20170418130720.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/img/微信图片_20170418130641.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/微信图片_20170418130710.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/微信图片_2017041
+      
+    
+    </summary>
+    
+    
+      <category term="苏州" scheme="shijie-xu.github.io/tags/%E8%8B%8F%E5%B7%9E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>环太湖骑行</title>
+    <link href="shijie-xu.github.io/2017/04/03/%E7%8E%AF%E5%A4%AA%E6%B9%96%E9%AA%91%E8%A1%8C/"/>
+    <id>shijie-xu.github.io/2017/04/03/环太湖骑行/</id>
+    <published>2017-04-03T06:07:53.000Z</published>
+    <updated>2017-09-16T13:47:49.130Z</updated>
+    
+    <content type="html"><![CDATA[<p>突然想起来那天环太湖骑行，行至南太湖的一处歇脚，看见了一个硕大的建筑物，甚是醒目：</p><p><img src="/img/taihu.jpg" alt="Building"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;突然想起来那天环太湖骑行，行至南太湖的一处歇脚，看见了一个硕大的建筑物，甚是醒目：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/taihu.jpg&quot; alt=&quot;Building&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="苏州" scheme="shijie-xu.github.io/tags/%E8%8B%8F%E5%B7%9E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RSA 算法的数学原理</title>
+    <link href="shijie-xu.github.io/2017/03/26/RSA-%E7%AE%97%E6%B3%95%E7%9A%84%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86/"/>
+    <id>shijie-xu.github.io/2017/03/26/RSA-算法的数学原理/</id>
+    <published>2017-03-26T08:06:08.000Z</published>
+    <updated>2017-09-16T06:07:06.147Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h3><p>这篇文章简单地介绍了广为使用的 RSA 算法在数学上的原理。</p><h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><p>设 $n=p∗q$, $p$ 和 $q$ 都是不同的素数，考虑欧拉函数 $\phi(n)$，由欧拉定理知</p><p>$$\forall (a,n)=1,a\phi(n)≡1(\mathrm{mod}~ n),$$</p><p>任取小于 $\phi(n)$ 且与其互质的正整数 $e$，由中国剩余定理，下面同余方程有解 $d$：</p><p>$$ed≡1(\mathrm{mod}~ (p−1))$$</p><p>$$ed≡1(\mathrm{mod}~ (q−1))$$</p><p>这样我们得到了一组密钥 $(e,d)$，销毁 $(p,q)$ 的记录。</p><p>使用时，假设有一个整数 $a$, Alice使用公钥 $e$ 加密后得到密文 $ae(\mathrm{mod}~ n)$，密文发给Bob，他使用自己的私钥 $d$ 解密，得到 $(ae)d(\mathrm{mod}~ n)$。根据欧拉定理，我们可以证明 [1] $(ae)d=ae∗d≡a(\mathrm{mod}~ n)$。从而得到了明文。</p><p>使用时，$n$ 和 $e$ 是公开的，只有 $d$ 是私有的，所以密码的安全性不会超过从 $n$ 和 $e$ 计算出 $d$ 的难度，而这等价于分解大质数的难度，从理论上说，量子计算机可以在多项式时间内解决该问题。这意味着增加 n 的位数不能有效地提高安全性，从而 RSA 算法失效。</p><hr><p>[1]: 我非常困惑 Mathjax 的渲染器不允许我的证明被正常显示出来，所以这里略去。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Abstract&quot;&gt;&lt;a href=&quot;#Abstract&quot; class=&quot;headerlink&quot; title=&quot;Abstract&quot;&gt;&lt;/a&gt;Abstract&lt;/h3&gt;&lt;p&gt;这篇文章简单地介绍了广为使用的 RSA 算法在数学上的原理。&lt;/p&gt;
+&lt;h3 id=&quot;Int
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>走れ！コード学園【 第九回】</title>
+    <link href="shijie-xu.github.io/2017/03/25/%E8%B5%B0%E3%82%8C%EF%BC%81%E3%82%B3%E3%83%BC%E3%83%89%E5%AD%A6%E5%9C%92%E3%80%90-%E7%AC%AC%E4%B9%9D%E5%9B%9E%E3%80%91/"/>
+    <id>shijie-xu.github.io/2017/03/25/走れ！コード学園【-第九回】/</id>
+    <published>2017-03-25T08:02:39.000Z</published>
+    <updated>2017-09-15T08:05:34.815Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="ヒャッハー！転入生PHPは電波！？"><a href="#ヒャッハー！転入生PHPは電波！？" class="headerlink" title="ヒャッハー！転入生PHPは電波！？"></a>ヒャッハー！転入生PHPは電波！？</h4><p><img src="/img/manga/9/1.jpg" alt=""></p><p><img src="/img/manga/9/2.jpg" alt=""></p><p><img src="/img/manga/9/3.jpg" alt=""></p><p><img src="/img/manga/9/4.jpg" alt=""></p><p><img src="/img/manga/9/5.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;ヒャッハー！転入生PHPは電波！？&quot;&gt;&lt;a href=&quot;#ヒャッハー！転入生PHPは電波！？&quot; class=&quot;headerlink&quot; title=&quot;ヒャッハー！転入生PHPは電波！？&quot;&gt;&lt;/a&gt;ヒャッハー！転入生PHPは電波！？&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>走れ！コード学園【 第八回】</title>
+    <link href="shijie-xu.github.io/2017/03/25/%E8%B5%B0%E3%82%8C%EF%BC%81%E3%82%B3%E3%83%BC%E3%83%89%E5%AD%A6%E5%9C%92%E3%80%90-%E7%AC%AC%E5%85%AB%E5%9B%9E%E3%80%91/"/>
+    <id>shijie-xu.github.io/2017/03/25/走れ！コード学園【-第八回】/</id>
+    <published>2017-03-25T07:57:04.000Z</published>
+    <updated>2017-09-15T08:01:54.126Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="C-が織りなすバーチャル-リアルテイの世界へ、ようこそ！"><a href="#C-が織りなすバーチャル-リアルテイの世界へ、ようこそ！" class="headerlink" title="C#が織りなすバーチャル　リアルテイの世界へ、ようこそ！"></a>C#が織りなすバーチャル　リアルテイの世界へ、ようこそ！</h4><p><img src="/img/manga/8/0.jpg" alt=""></p><p><img src="/img/manga/8/1.jpg" alt=""></p><p><img src="/img/manga/8/2.jpg" alt=""></p><p><img src="/img/manga/8/3.jpg" alt=""></p><p><img src="/img/manga/8/4.jpg" alt=""></p><p><img src="/img/manga/8/5.jpg" alt=""></p><p><img src="/img/manga/8/6.jpg" alt=""></p><p><img src="/img/manga/8/7.jpg" alt=""></p><p><img src="/img/manga/8/8.jpg" alt=""></p><p><img src="/img/manga/8/9.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;C-が織りなすバーチャル-リアルテイの世界へ、ようこそ！&quot;&gt;&lt;a href=&quot;#C-が織りなすバーチャル-リアルテイの世界へ、ようこそ！&quot; class=&quot;headerlink&quot; title=&quot;C#が織りなすバーチャル　リアルテイの世界へ、ようこそ！&quot;&gt;&lt;/a&gt;C#
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>常用工具合集</title>
+    <link href="shijie-xu.github.io/2017/03/24/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/"/>
+    <id>shijie-xu.github.io/2017/03/24/常用工具合集/</id>
+    <published>2017-03-24T07:48:26.000Z</published>
+    <updated>2017-09-16T14:53:04.390Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="FSCapture"><a href="#FSCapture" class="headerlink" title="FSCapture"></a>FSCapture</h4><p>一个绿色软件，主要用于微信公众稿的长截图，其它功能尚待发现。</p><p><img src="/img/fsc.png" alt="FSCapture"></p><p><a href="/img/FSCapture.zip">下载地址</a></p><h4 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h4><p>一个轻量级文本编辑器，支持 Markdown 语言，实时渲染。</p><p><a href="https://typora.io/" target="_blank" rel="external">官方网址</a></p><h4 id="Guetzli"><a href="#Guetzli" class="headerlink" title="Guetzli"></a>Guetzli</h4><p>Google 最新开源的一个图片压缩算法，具有 30% 左右的压缩率。对某些图片具有较好的压缩率。运行会消耗大量内存和时间。</p><p><a href="https://github.com/google/guetzli/" target="_blank" rel="external">Github</a></p><h4 id="KillMir-1-0"><a href="#KillMir-1-0" class="headerlink" title="KillMir 1.0"></a>KillMir 1.0</h4><p>一个病毒专杀程序，西活楼下打印店病毒。该病毒会在 U盘里写入与文件夹同名的副本，并修改图标为Win7系统的文件夹图标，具有一定的隐藏性，危害性暂时不明，只知道可以自我复制并驻留内存。</p><h4 id="Basic"><a href="#Basic" class="headerlink" title="Basic"></a>Basic</h4><p>An interpreter for untyped lambda calculus, beta-reduction.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;FSCapture&quot;&gt;&lt;a href=&quot;#FSCapture&quot; class=&quot;headerlink&quot; title=&quot;FSCapture&quot;&gt;&lt;/a&gt;FSCapture&lt;/h4&gt;&lt;p&gt;一个绿色软件，主要用于微信公众稿的长截图，其它功能尚待发现。&lt;/p&gt;
+&lt;p&gt;&lt;img
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Proof General -- 证明助手的通用的 Emacs 接口</title>
+    <link href="shijie-xu.github.io/2017/03/24/Proof-General-%E8%AF%81%E6%98%8E%E5%8A%A9%E6%89%8B%E7%9A%84%E9%80%9A%E7%94%A8%E7%9A%84-Emacs-%E6%8E%A5%E5%8F%A3/"/>
+    <id>shijie-xu.github.io/2017/03/24/Proof-General-证明助手的通用的-Emacs-接口/</id>
+    <published>2017-03-23T16:10:13.000Z</published>
+    <updated>2017-09-14T16:11:08.609Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="什么是-Proof-General"><a href="#什么是-Proof-General" class="headerlink" title="什么是 Proof General"></a>什么是 Proof General</h3><p><em>Proof General</em> 是证明助手（交互式定理证明器）的通用前端，基于 <a href="https://www.emacswiki.org/emacs/SiteMap" target="_blank" rel="external">Emacs</a> 的自定义功能。<em>Proof General</em> 由<a href="http://www.ed.ac.uk/" target="_blank" rel="external">爱丁堡大学</a>的 <a href="http://wcms.inf.ed.ac.uk/lfcs/" target="_blank" rel="external">LFCS</a> 及来自互联网的其它人员合力开发。构建于 <a href="http://www.gnu.org/licenses/gpl-2.0.html" target="_blank" rel="external">GNU GeneralPublic License</a> 之下。主管人员是 <a href="http://homepages.inf.ed.ac.uk/da" target="_blank" rel="external">DavidAspinall</a>，其它构建者在 <a href="https://proofgeneral.github.io/AUTHORS" target="_blank" rel="external">AUTHORS</a> 文件中列出。</p><ul><li>Proof General 对 Coq 证明助手提供全面的支持，作者：Healfdene Goguen， Patrick Loiseleur， David Aspinall， 和 <a href="http://cedric.cnam.fr/~courtiep/" target="_blank" rel="external">Pierre Courtieu</a>。</li><li>也支持Isabelle Proof General（更新至2014），作者：<a href="http://homepages.inf.ed.ac.uk/da" target="_blank" rel="external">David Aspinall</a> 和<a href="http://sketis.net/" target="_blank" rel="external">Makarius</a>。</li><li>支持Phox Proof General，作者：<a href="http://www.lama.univ-savoie.fr/~RAFFALLI" target="_blank" rel="external">Christophe Raffalli</a>， Paul Roziere and Jean-Roch Sotty。</li><li>LEGO Proof General，作者： <a href="http://www.dcs.ed.ac.uk/home/lego" target="_blank" rel="external">LEGO</a></li><li>HOL Proof General，作者： <a href="https://hol-theorem-prover.org/" target="_blank" rel="external">HOL98/HOL4</a></li><li>ACL2 Proof General，作者： <a href="http://www.cs.utexas.edu/users/moore/acl2" target="_blank" rel="external">ACL2</a></li></ul><p>这些例子也许并不完整，在最新的版本中。</p><p><em>Proof General</em> 准备个性化成一个全新的证明助手。它可以很容易地对工作提供基本支持。<a href="https://github.com/ProofGeneral/PG/releases/download/v4.4/PG-adapting.pdf" target="_blank" rel="external">提供了完全配置文档</a>。我们欢迎对 <em>Proof General</em> 进行支持和拓展，如果你计划了一个主要的工作，请联系我们。</p><p>如果准备支持（或应用）一个新的证明器，请阅读 <em>Proof General</em> 的<a href="http://proofgeneral.inf.ed.ac.uk/kit" target="_blank" rel="external">开发架构</a> 。思想是证明助手需要支持 PGIP，一个一致的交互协议，而不是使用系统声明式的自定义接口。使用 PCIP 的主要的研究是一个 <a href="http://www.eclipse.org/" target="_blank" rel="external">Eclipse</a> 插件，虽然 Emacs Proof General 支持一些 PGIP 配置。</p><h3 id="快速安装指导"><a href="#快速安装指导" class="headerlink" title="快速安装指导"></a>快速安装指导</h3><p>删除旧版本的 <em>Proof General</em>，然后从 github 上下载和安装新的发布：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">git clone https://github.com/ProofGeneral/PG ~/.emacs.d/lisp/PG</div><div class="line">cd ~/.emacs.d/lisp/PG</div><div class="line">make</div></pre></td></tr></table></figure><p>然后添加如下至 .emacs 文件：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">;; Open .v files with Proof General&apos;s Coq mode</div><div class="line">(load &quot;~/.emacs.d/lisp/PG/generic/proof-site&quot;)</div></pre></td></tr></table></figure><p>如果 <em>Proof General</em> 抱怨版本不匹配，请确认 shell 中的 emacs 是你常用的 emacs，否则将 emacs 添加入 PATH 中，并重新 make 一遍。特别地，在 macOS 上，你可能需要这样：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">make clean; make EMACS=/Applications/Emacs.app/Contents/MacOS/Emacs</div></pre></td></tr></table></figure><p>更多信息，请看 github 上的文件 <a href="https://github.com/ProofGeneral/PG#more-info" target="_blank" rel="external">README</a> 和 <a href="https://github.com/ProofGeneral/PG/blob/master/INSTALL" target="_blank" rel="external">INSTALL</a>。</p><hr><p>(本文由 <a href="https://shijie-xu.github.io/2017/03/24/Proof-General/shijie-xu.github.io">Shijie Xu</a> 翻译，<a href="https://proofgeneral.github.io/" target="_blank" rel="external">原文链接</a>)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;什么是-Proof-General&quot;&gt;&lt;a href=&quot;#什么是-Proof-General&quot; class=&quot;headerlink&quot; title=&quot;什么是 Proof General&quot;&gt;&lt;/a&gt;什么是 Proof General&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Proof 
+      
+    
+    </summary>
+    
+    
+      <category term="coq" scheme="shijie-xu.github.io/tags/coq/"/>
+    
+      <category term="emacs" scheme="shijie-xu.github.io/tags/emacs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>配置Spacemacs</title>
+    <link href="shijie-xu.github.io/2017/03/24/%E9%85%8D%E7%BD%AESpacemacs/"/>
+    <id>shijie-xu.github.io/2017/03/24/配置Spacemacs/</id>
+    <published>2017-03-23T16:05:29.000Z</published>
+    <updated>2017-09-14T16:08:47.006Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>安装 Spacemacs，去<a href="https://github.com/syl20bnr/spacemacs" target="_blank" rel="external">官网</a> git clone。</li></ul><ul><li>安装 source code pro 字体，<a href="https://github.com/adobe-fonts/source-code-pro" target="_blank" rel="external">链接</a>。</li><li>安装<a href="http://www.adobe.com/devnet/opentype/afdko.html" target="_blank" rel="external">FDK工具包</a>，在目录下执行<code>./build.sh</code></li></ul><p>，拷贝target目录下的 otf 和 ttf 字体到目录 /usr/local/share/fonts，然后执行 sudo fc-cache （Linux）；或者直接双击安装（Windows）。</p><ul><li>执行emacs –insecure，至此常规安装结束，接下来修复bug，注意spacemacs不使用.emacs文件，最好移除该文件</li><li>emacs的启动太慢，这个锅emacs不背，是helm包惹的祸，将如下代码添加进~/.spacemacs，详见注释中的issuse链接</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">;; https://github.com/syl20bnr/spacemacs/issues/2705</div><div class="line">;; Fix up the startup-time</div><div class="line">(setq tramp-ssh-controlmaster-options &quot;-o ControlMaster=auto -o ControlPath=&apos;tramp.%%C&apos; -o ControlPersist=no&quot;)</div></pre></td></tr></table></figure><ul><li>针对melpa源网速差的情况，可以使用这个</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">(require &apos;package)  </div><div class="line">(add-to-list &apos;package-archives &apos;(&quot;melpa&quot; . &quot;https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/&quot;) t)</div><div class="line">(package-initialize)</div></pre></td></tr></table></figure><ul><li>ProofGeneral 照常安装，添加</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">;; Open .v files with Proof General&apos;s Coq mode</div><div class="line">(load &quot;~/.emacs.d/lisp/PG/generic/proof-site&quot;)</div></pre></td></tr></table></figure><ul><li>安装company-coq自动补全后需要注意，spacemacs会自动删除orphan packages所以就悲剧了，下次启动时你会发现刚装了包又被删除了，需要添加如下代码进入.spacemacs</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">(defun dotspacemacs/layers ()</div><div class="line">    (setq-default</div><div class="line">   dotspacemacs-additional-packages &apos;(company-coq)</div><div class="line">   ))</div></pre></td></tr></table></figure><p>并在ProofGeneral代码后添加</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div></pre></td><td class="code"><pre><div class="line">;; Load company-coq when opening Coq files</div><div class="line">(add-hook &apos;coq-mode-hook #&apos;company-coq-mode)</div><div class="line">(add-hook &apos;coq-mode-hook</div><div class="line">          (lambda ()</div><div class="line">            ( setq-local prettify-symbols-alist</div><div class="line">                         &apos;((&quot;Alpha&quot; . ?Α) (&quot;Beta&quot; . ?Β) (&quot;Gamma&quot; . ?Γ)</div><div class="line">                           (&quot;Delta&quot; . ?Δ) (&quot;Epsilon&quot; . ?Ε) (&quot;Zeta&quot; . ?Ζ)</div><div class="line">                           (&quot;Eta&quot; . ?Η) (&quot;Theta&quot; . ?Θ) (&quot;Iota&quot; . ?Ι)</div><div class="line">                           (&quot;Kappa&quot; . ?Κ) (&quot;Lambda&quot; . ?Λ) (&quot;Mu&quot; . ?Μ)</div><div class="line">                           (&quot;Nu&quot; . ?Ν) (&quot;Xi&quot; . ?Ξ) (&quot;Omicron&quot; . ?Ο)</div><div class="line">                           (&quot;Pi&quot; . ?Π) (&quot;Rho&quot; . ?Ρ) (&quot;Sigma&quot; . ?Σ)</div><div class="line">                           (&quot;Tau&quot; . ?Τ) (&quot;Upsilon&quot; . ?Υ) (&quot;Phi&quot; . ?Φ)</div><div class="line">                           (&quot;Chi&quot; . ?Χ) (&quot;Psi&quot; . ?Ψ) (&quot;Omega&quot; . ?Ω)</div><div class="line">                           (&quot;alpha&quot; . ?α) (&quot;beta&quot; . ?β) (&quot;gamma&quot; . ?γ)</div><div class="line">                           (&quot;delta&quot; . ?δ) (&quot;epsilon&quot; . ?ε) (&quot;zeta&quot; . ?ζ)</div><div class="line">                           (&quot;eta&quot; . ?η) (&quot;theta&quot; . ?θ) (&quot;iota&quot; . ?ι)</div><div class="line">                           (&quot;kappa&quot; . ?κ) (&quot;lambda&quot; . ?λ) (&quot;mu&quot; . ?μ)</div><div class="line">                           (&quot;nu&quot; . ?ν) (&quot;xi&quot; . ?ξ) (&quot;omicron&quot; . ?ο)</div><div class="line">                           (&quot;pi&quot; . ?π) (&quot;rho&quot; . ?ρ) (&quot;sigma&quot; . ?σ)</div><div class="line">                           (&quot;tau&quot; . ?τ) (&quot;upsilon&quot; . ?υ) (&quot;phi&quot; . ?φ)</div><div class="line">                           (&quot;chi&quot; . ?χ) (&quot;psi&quot; . ?ψ) (&quot;omega&quot; . ?ω)</div><div class="line">                           (&quot;\\\\&quot; . ?⇓)(&quot;|-&gt;&quot; . ?↦)(&quot;:=&quot; . ?≜)(&quot;\\in&quot; .?∈)</div><div class="line">                           (&quot;~&quot; .?¬)(&quot;Proof.&quot; . ?∵) (&quot;Qed.&quot; . ?■)</div><div class="line">                           (&quot;Defined.&quot; . ?□) (&quot;Time&quot; . ?⏱) (&quot;Admitted.&quot; . ?😱)))))</div></pre></td></tr></table></figure><p>以上是一些字符的显示</p><ul><li>最后可以添加如下代码在.spacemacs文件头部</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">;;Show lineno</div><div class="line">(global-linum-mode t)</div><div class="line">;;Hide tool bar</div><div class="line">(tool-bar-mode -1)</div><div class="line">;;Set cursor mode &apos;bar for 束线 &apos;box for 方块</div><div class="line">(setq-default cursor-type &apos;bar)</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;安装 Spacemacs，去&lt;a href=&quot;https://github.com/syl20bnr/spacemacs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;官网&lt;/a&gt; git clone。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="coq" scheme="shijie-xu.github.io/tags/coq/"/>
+    
+      <category term="emacs" scheme="shijie-xu.github.io/tags/emacs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>苏州春景</title>
+    <link href="shijie-xu.github.io/2017/03/18/%E8%8B%8F%E5%B7%9E%E6%98%A5%E6%99%AF/"/>
+    <id>shijie-xu.github.io/2017/03/18/苏州春景/</id>
+    <published>2017-03-18T04:06:57.000Z</published>
+    <updated>2017-09-14T16:09:50.129Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>吴堤三月柳，春满游子袖<br><img src="/img/willow.jpg" alt="苏堤春景"></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;吴堤三月柳，春满游子袖&lt;br&gt;&lt;img src=&quot;/img/willow.jpg&quot; alt=&quot;苏堤春景&quot;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="苏州" scheme="shijie-xu.github.io/tags/%E8%8B%8F%E5%B7%9E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="shijie-xu.github.io/2017/03/18/hello-world/"/>
+    <id>shijie-xu.github.io/2017/03/18/hello-world/</id>
+    <published>2017-03-18T03:06:57.000Z</published>
+    <updated>2017-09-14T04:09:51.902Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
