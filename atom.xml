@@ -88,9 +88,9 @@
     <link href="shijie-xu.github.io/2017/04/30/Bash-on-Ubuntu-on-Windows/"/>
     <id>shijie-xu.github.io/2017/04/30/Bash-on-Ubuntu-on-Windows/</id>
     <published>2017-04-30T04:46:03.000Z</published>
-    <updated>2017-09-17T04:57:31.333Z</updated>
+    <updated>2017-09-17T05:00:58.482Z</updated>
     
-    <content type="html"><![CDATA[<p>Bash on Ubuntu on Windows</p><p>这是一个十分有用的工具，（我认为的）,是windows下的linux子系统，打算用这个替代双系统。</p><p>放狗一搜，很容易就可以安装好了。相关链接</p><p>不过对于图形界面的支持还有一点缺陷，需要使用xming这个工具，不过弄好了的感觉就是酷啊！</p><p><img src="/img/display.png" alt="示例"></p><p><img src="/img/Xming-6-9-0-31-setup.exe" alt="xming下载链接"></p>]]></content>
+    <content type="html"><![CDATA[<p>Bash on Ubuntu on Windows</p><p>这是一个十分有用的工具，（我认为的）,是windows下的linux子系统，打算用这个替代双系统。</p><p>放狗一搜，很容易就可以安装好了。相关链接</p><p>不过对于图形界面的支持还有一点缺陷，需要使用xming这个工具，不过弄好了的感觉就是酷啊！</p><p><img src="/img/display.png" alt="示例"></p><p><a href="/img/Xming-6-9-0-31-setup.exe">xming下载链接</a></p>]]></content>
     
     <summary type="html">
     
